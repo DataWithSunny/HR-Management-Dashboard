@@ -13,4 +13,5 @@ Voluntary & Involuntary Turnover
 Average Tenure (FT / PT)
 Workforce Demographics (Age, Gender, Ethnicity)
 Regional & Business Unit Distribution
+
 Tools & Skills Used:- MS Excel, Data Cleaning, Pivot Tables, Dashboards, KPI Analysis, HR Analytics, Data Visualization
